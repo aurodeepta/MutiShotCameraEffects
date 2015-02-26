@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">DeadlyShot</string>
+<string name="color_effect">Select the Best Picture</string>
+<string name="snap_shots">Select Number Of Shots</string>
+<string name="app_desc">DeadlyShot camera application from iThread Corporation. From Mobilty Division</string>
+<string name="start_application">Start camera, action, cut :)</string>
+</resources>
